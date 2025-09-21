@@ -1,0 +1,16 @@
+{
+  "name": "@likaikai/my-ai-npm-package",
+  "version": "1.2.0",
+  "description": "自定义的 npm 包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "likaikai",
+  "license": "ISC",
+  "dependencies": {}
+}
